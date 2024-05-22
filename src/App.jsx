@@ -65,7 +65,7 @@ function App() {
 
   return (
       <div className='container w-[100vw] max-w-full lg:min-h-[100vh] flex flex-col items-center py-14 font-body font-bold text-grayish-blue bg-[#ecebf9] bg-[url("/bg-top.svg")] bg-no-repeat bg-[position:15rem_-2rem] lg:bg-[position:100%_-2rem] bg-[length:75%] lg:bg-[length:25%_80%] relative'>
-        <div className='absolute top-0 left-0 right-0 bottom-0 bg-[url("/bg-bottom.svg")]  bg-no-repeat bg-left-bottom z-0' />
+        <div className='absolute top-0 left-0 right-0 bottom-0 md:bg-[url("/bg-bottom.svg")]  bg-no-repeat bg-left-bottom z-0' />
         <h1 className="text-3xl">Our Pricing</h1>
         <div className='flex flex-row items-center gap-2 mt-8 mb-10'>
           <p className="text-sm text-[#a9a9b5]">Anually</p>

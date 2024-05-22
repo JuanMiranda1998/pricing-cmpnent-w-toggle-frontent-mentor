@@ -6,6 +6,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
@@ -21,6 +22,11 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
 - **Bonus**: Complete the challenge with just HTML and CSS
+
+### Screenshot
+
+![Desktop(1440px)](./screenshots/captura-desktop.png)
+![Mobile(375px)](./screenshots/captura-mobile.png)
 
 
 ### Links
