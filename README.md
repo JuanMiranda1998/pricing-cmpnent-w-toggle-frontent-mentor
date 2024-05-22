@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanMiranda1998/pricing-cmpnent-w-toggle-frontent-mentor)
-- Live Site URL: [Netlify](https://www.example.com)
+- Live Site URL: [Netlify](https://toggle-price-component-juanmiranda.netlify.app/)
 
 ## My process
 
