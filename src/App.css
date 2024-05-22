@@ -32,7 +32,7 @@
   .toggle-switch-handle {
     position: absolute;
     top: 4px;
-    left: 5px;
+    right: 5px;
     width: 22px;
     height: 22px;
     background-color: #fff;
@@ -66,5 +66,5 @@
   }
   
   .toggle-switch input[type="checkbox"]:checked + .toggle-switch-background .toggle-switch-handle {
-    transform: translateX(17px);
+    transform: translateX(-19px);
   }
